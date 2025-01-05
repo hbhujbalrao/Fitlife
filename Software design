@@ -1,0 +1,13 @@
+# Software
+
+This folder includes all code and software-related resources for the FitLife tracker.
+
+## Contents
+- Source code for algorithms (e.g., step tracking, heart rate monitoring).
+- App codebase for Android and iOS.
+- Scripts and utilities.
+
+## Guidelines
+- Maintain separate subfolders for specific features (e.g., `step-tracker/`, `mobile-app/`).
+- Include comments and documentation within the code files.
+- Ensure test cases are included for all major functions.
